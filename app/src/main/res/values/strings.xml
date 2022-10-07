@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="the_bay">The Bay</string>
+    <string name="menu_button">Menu Button</string>
+</resources>
